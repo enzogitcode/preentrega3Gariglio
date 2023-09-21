@@ -1,0 +1,6 @@
+@media (max-width: 480px) {
+    .flexReceta {
+        grid-template-areas: "recetaTitulo" "recetaAviso" "ingredientes" "preparacion" "flexReceta__img";
+
+    }
+}
